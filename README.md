@@ -6,6 +6,9 @@ Last hackathon of UCDD2
 * [Nepal earthquake: The race is on to help thousands trapped under rubble around Kathmandu, while remote villages face a long wait for help](http://www.independent.co.uk/news/world/asia/nepal-earthquake-the-race-is-on-to-help-thousands-trapped-under-rubble-around-kathmandu-while-remote-villages-face-a-long-wait-for-help-10204416.html)
 
 ## A design sketch of the main screens of your app
+https://drive.google.com/file/d/0B8ZJ0P44U5MXcmtIYjAyeENqOVE/view?usp=sharing
 ## A writeup of the use cases supported by the app
+
 ## An architecture diagram highlighting the major technical components
+
 ## An implementation plan broken down into milestones
