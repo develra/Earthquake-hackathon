@@ -15,6 +15,8 @@ Last hackathon of UCDD2
 * Get all or some of locations flagged (could be automatically sent to appropriate resources)
 
 ## An architecture diagram highlighting the major technical components
+![Image](earthquake2.jpg)
+
 ## An implementation plan broken down into milestones
 1. Capture and store original images from satellite 
 2. Update and store new images
