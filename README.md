@@ -7,7 +7,7 @@ Last hackathon of UCDD2
 
 ## A design sketch of the main screens of your app
 
-![Image](https://drive.google.com/file/d/0B8ZJ0P44U5MXcmtIYjAyeENqOVE/view?usp=sharing)
+![Image](earthquake.jpg)
 ## A writeup of the use cases supported by the app'
 * Tag an image for potential signs of destruction
 * Get all or some of locations flagged (could be automatically sent to appropriate resources)
