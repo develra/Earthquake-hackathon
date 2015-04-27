@@ -12,3 +12,9 @@ https://drive.google.com/file/d/0B8ZJ0P44U5MXcmtIYjAyeENqOVE/view?usp=sharing
 ## An architecture diagram highlighting the major technical components
 
 ## An implementation plan broken down into milestones
+1. Capture and store original images from satellite 
+2. Update and store new images
+3. Create comparative UI
+4. Create back end to store responses
+5. Analyze and aggregate data accordingly 
+6. Perform correct response in cases of data finding event
